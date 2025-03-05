@@ -1,0 +1,23 @@
+title: mjc-grant
+author: Michael J. Carter
+version: 0.0.1
+quarto-required: ">=1.6.0"
+contributes: 
+  formats: 
+    pdf:
+      documentclass: article
+      papersize: letter
+      fontsize: 12pt
+      geometry:
+        - left=1.87cm
+        - bottom=1.87cm
+        - top=1.87cm
+        - right=1.87cm
+        - includehead
+      linestretch: 1
+      mainfont: Times New Roman
+      #indent: true
+      template-partials:
+        - after-body.tex
+        - before-body.tex
+        - before-title.tex

@@ -1,0 +1,10 @@
+---
+title: Proposal budget
+author: Firstname Lastname
+pin: XXXXXX
+attachment: Budget justification
+format: mjc-grant-pdf
+---
+
+Show me the money!
+
